@@ -1,8 +1,8 @@
 <!--DOCTYPE html-->
 <html>
 <body>
-  <h1><center><b>Ignashious Harrison</center></h1>
+  <h1><center><b>Ignashious Harrison</b></center></h1>
 </body>
-  <h2><center> <b>About Me</center> </h2>
+  <h2><center> <b>About Me</b></center> </h2>
 </html>
 
