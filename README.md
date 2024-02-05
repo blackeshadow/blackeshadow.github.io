@@ -13,6 +13,7 @@
 <html>
 <body>
      <h1 style="text-align:center"> <b>Games</b><center/></h1>
+     </body>
 
 </html>
 
