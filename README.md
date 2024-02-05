@@ -14,7 +14,7 @@
 <body>
      <h1 style="text-align:center"> <b>Games</b><center/></h1>
      </body>
-<h2> <left> <b>Ball Game</b></left></h2>
+<h2> <left> <b> Ball Game </b> </left> </h2>
 </html>
 
 
