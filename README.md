@@ -15,7 +15,7 @@
      <h1 style="text-align:center"> <b>Games</b><center/></h1>
      </body>
 <h2> <left> <b> Ball Game </b> </left> </h2>
-       <h3> <left> <b> <p style="text-align:left;"> This game is a prototype for a game centered around using W,A,S,D controls to move around map and avoid enemy orbs pushing you off </p> </b> </left>  </h3>
+       <h3> <left> <b> <p style="text-align:left;"> This game is a prototype for a game centered around using W,A,S,D controls to move around map and avoid enemy orbs pushing you off </p> </b> </left> </h3>
 </html>
 
 
