@@ -12,7 +12,7 @@
 
 <html>
 <body>
-    <h1 stle="text=align:center"> <b> Games</b><center/></h1>
+    <h1 style="text=align:center"> <b> Games</b><center/></h1>
 
 </html>
 
