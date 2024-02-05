@@ -14,9 +14,6 @@
 <body>
     <h1 stle="text=align:center"> <b> Games</b><center/></h1>
 
-
-  
-</body>
 </html>
 
 
