@@ -1,2 +1,14 @@
+body{
+    background-color: crimson;
+}
 
+h1{ 
+    color:lightgoldenrodyellow;
+    text-align: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
 
