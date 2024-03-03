@@ -1,6 +1,7 @@
 /* Background */
-body {
+body { border: 3px solid;
     background-color: white;
+    display: flow-root;
 }
 
 h1.header {
@@ -13,6 +14,10 @@ p {
     font-size: x-large;
 }
 container { width: 46%;
+
+}
+#Clickyimg {float: left;
+    margin-right: 10px; 
 
 }
 
