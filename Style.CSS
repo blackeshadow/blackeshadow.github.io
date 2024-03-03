@@ -1,13 +1,23 @@
 /* Background */
 
-#Ballb {
+#Balld {
     border: 5px;
     width: 250px;
     height: 250;
     font-size: x-large;
-    
 }
-
+#Clickyd {
+    border: 5px;
+    width: 250px;
+    height: 250;
+    font-size: x-large;
+}
+#Vild {
+    border: 5px;
+    width: 250px;
+    height: 250;
+    font-size: x-large;
+}
 body {
     background-color: white;
 
