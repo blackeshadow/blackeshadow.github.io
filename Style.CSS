@@ -1,39 +1,61 @@
 /* Background */
 
+#Ballimg {
+    float: left;
+    margin: 10px;
+}
+
 #Balld {
-    border: 5px;
-    width: 250px;
-    height: 250;
-    font-size: x-large;
+    border: 5px solid;
+    width: 1500px;
+    height: 300;
+    font-size: 25px;
+    padding-left: 5px;
+    margin-left: 5px;
+
 }
+
+#Clickyimg {
+    float: left;
+    margin: 10px;
+}
+
 #Clickyd {
-    border: 5px;
-    width: 250px;
-    height: 250;
-    font-size: x-large;
+    border: 5px solid;
+    width: 1500px;
+    height: 290;
+    font-size: 25px;
+    padding-left: 5px;
+    margin-left: 5px;
+
+
 }
+
+#vilimg {
+    float: left;
+    margin: 10px;
+}
+
 #Vild {
-    border: 5px;
-    width: 250px;
-    height: 250;
-    font-size: x-large;
+    border: 5px solid;
+    width: 1500px;
+    height: 300px;
+    font-size: 25px;
+    padding-left: 5px;
+    margin-left: 5px;
+
 }
+
 body {
     background-color: white;
 
 }
 
 h1.header {
-    text-align: center;
     color: black
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
-}
-
-container {
-    width: 46%;
-
 }
