@@ -1,7 +1,7 @@
 /* Background */
-body { border: 3px solid;
+body { 
     background-color: white;
-    display: flow-root;
+    
 }
 
 h1.header {
