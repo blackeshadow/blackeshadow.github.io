@@ -1,7 +1,16 @@
 /* Background */
-body { 
-    background-color: white;
+
+#Ballb {
+    border: 5px;
+    width: 250px;
+    height: 250;
+    font-size: x-large;
     
+}
+
+body {
+    background-color: white;
+
 }
 
 h1.header {
@@ -13,7 +22,8 @@ p {
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
 }
-container { width: 46%;
+
+container {
+    width: 46%;
 
 }
-
